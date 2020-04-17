@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abd012cb-e12e-481c-8230-e2c25c6e47bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_3_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_48.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_72.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_relevantcodes_extentreports_2_41_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vimalselvam_testng_extentsreport_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_extras_beanshell_bsh_2_0b6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_bson_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongodb_driver_core_3_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_6_14_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_sqlite_jdbc_3_8_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mygit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/Chapterr1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/BasicAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/DependTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/ExpectedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/IgnoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/PayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/SuiteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/TimeOutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/groups/GroupsOnClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/groups/GroupsOnClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/groups/GroupsOnClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/groups/GroupsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/multiThread/MuitiThreadOnnotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/multiThread/MultiThreadOnXml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/paramter/DataProviderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/java/com/cource/testng/paramter/ParamterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/resources/Paramter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/resources/groupsOnClass.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/resources/muitiThread.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr1/src/main/resources/suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr2/Chapterr2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr2/src/main/java/com/tester/extend/demo/ExtentTestNGIReporterListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr2/src/main/java/com/tester/extend/demo/ExtentTestNGIReporterListenerOld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr2/src/main/java/com/tester/extend/demo/TestMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr2/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr2/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr2/test-output/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr3/moco-runner-0.11.0-standalone.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr3/startup1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr3/startupPost.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr3/startupWithHeader.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr3/startupWithRedirect.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr3/基本操作说明" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr5/Chapterr5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr5/src/main/java/com/course/httpclient/cookies/MyCookiesForGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr5/src/main/java/com/course/httpclient/cookies/MyCookiesForGet1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapterr5/src/main/java/com/course/httpclient/demo/MyHttpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tt.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/.idea/web_auto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/case/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapterr5/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/case/t1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/case/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/case/test3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/case/test4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/case/test_add_bug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/case/test_login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/case/test_test_zentao_login1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/HTMLTestRunner_cn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapterr3/startupWithCookies.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/datas.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/gundong.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/h1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/h2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/read_excel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/t1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/t2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/t3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/t4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/t5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/t6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/t7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/t8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/common/t9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapterr3/startupGet.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/pages/add_bug_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/pages/login_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/pages/t2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/report/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Chapterr2/src/main/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/report/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_03/run_all.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aYpmM8t6Ayy2RnosirZHf8P4h2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapterr5/src/main/resources/application.properties" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.splitter.proportion" value="0.30219334" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.course.httpclient.cookies" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.MyCookiesForGet.testGetWithCookies">
+    <configuration name="BasicAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapterr1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cource.testng.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cource.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.cource.testng.BasicAnnotation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCookiesForGet" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapterr5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForGet" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCookiesForGet.testGetCookies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapterr5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForGet" />
+      <option name="METHOD_NAME" value="testGetCookies" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCookiesForGet.testGetCookies1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapterr5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForGet" />
+      <option name="METHOD_NAME" value="testGetCookies1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCookiesForGet.testGetWithCookies" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapterr5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.course.httpclient.cookies.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.course.httpclient.cookies" />
+      <option name="MAIN_CLASS_NAME" value="com.course.httpclient.cookies.MyCookiesForGet" />
+      <option name="METHOD_NAME" value="testGetWithCookies" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.MyCookiesForGet.testGetWithCookies" />
+        <item itemvalue="TestNG.MyCookiesForGet.testGetCookies" />
+        <item itemvalue="TestNG.MyCookiesForGet" />
+        <item itemvalue="TestNG.MyCookiesForGet.testGetCookies1" />
+        <item itemvalue="TestNG.BasicAnnotation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abd012cb-e12e-481c-8230-e2c25c6e47bd" name="Default Changelist" comment="" />
+      <created>1586922541657</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586922541657</updated>
+      <workItem from="1586922553920" duration="238000" />
+      <workItem from="1586922867044" duration="464000" />
+      <workItem from="1586923366204" duration="23070000" />
+      <workItem from="1587005813488" duration="9382000" />
+      <workItem from="1587049426119" duration="2061000" />
+      <workItem from="1587051944478" duration="2746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="34" y="0" key="#Project_Structure" timestamp="1586927171413">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="34" y="0" key="#Project_Structure/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1586927171413" />
+    <state x="235" y="0" key="FileChooserDialogImpl" timestamp="1586958810539">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="235" y="0" key="FileChooserDialogImpl/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1586958810539" />
+    <state width="1310" height="3" key="GridCell.Tab.0.bottom" timestamp="1587054755560">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1310" height="3" key="GridCell.Tab.0.bottom/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1587054755560" />
+    <state width="1624" height="324" key="GridCell.Tab.0.bottom/0.0.1366.734/1366.0.1680.1050@1366.0.1680.1050" timestamp="1586924528394" />
+    <state width="1310" height="3" key="GridCell.Tab.0.center" timestamp="1587054755560">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1310" height="3" key="GridCell.Tab.0.center/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1587054755560" />
+    <state width="1624" height="324" key="GridCell.Tab.0.center/0.0.1366.734/1366.0.1680.1050@1366.0.1680.1050" timestamp="1586924528394" />
+    <state width="1310" height="3" key="GridCell.Tab.0.left" timestamp="1587054755560">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1310" height="3" key="GridCell.Tab.0.left/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1587054755560" />
+    <state width="1624" height="324" key="GridCell.Tab.0.left/0.0.1366.734/1366.0.1680.1050@1366.0.1680.1050" timestamp="1586924528394" />
+    <state width="1310" height="3" key="GridCell.Tab.0.right" timestamp="1587054755560">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1310" height="3" key="GridCell.Tab.0.right/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1587054755560" />
+    <state width="1624" height="324" key="GridCell.Tab.0.right/0.0.1366.734/1366.0.1680.1050@1366.0.1680.1050" timestamp="1586924528394" />
+    <state width="1310" height="201" key="GridCell.Tab.1.bottom" timestamp="1586967566293">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1310" height="201" key="GridCell.Tab.1.bottom/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1586967566293" />
+    <state width="1310" height="201" key="GridCell.Tab.1.center" timestamp="1586967566292">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1310" height="201" key="GridCell.Tab.1.center/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1586967566292" />
+    <state width="1310" height="201" key="GridCell.Tab.1.left" timestamp="1586967566292">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1310" height="201" key="GridCell.Tab.1.left/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1586967566292" />
+    <state width="1310" height="201" key="GridCell.Tab.1.right" timestamp="1586967566292">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state width="1310" height="201" key="GridCell.Tab.1.right/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1586967566292" />
+    <state x="96" y="0" key="Maven.ArtifactSearchDialog" timestamp="1587013721110">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="96" y="0" key="Maven.ArtifactSearchDialog/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1587013721110" />
+    <state x="234" y="2" key="NewModule_or_Project.wizard" timestamp="1586923313762">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="234" y="2" key="NewModule_or_Project.wizard/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1586923313762" />
+    <state x="34" y="0" key="SettingsEditor" timestamp="1586967356206">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="34" y="0" key="SettingsEditor/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1586967356206" />
+    <state x="1408" y="0" key="SettingsEditor/0.0.1366.734/1366.0.1680.1050@1366.0.1680.1050" timestamp="1586924348684" />
+    <state x="0" y="0" key="new project wizard" timestamp="1586927207714">
+      <screen x="0" y="0" width="1366" height="734" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.734/1366.0.1680.1050@0.0.1366.734" timestamp="1586927207714" />
+  </component>
+</project>
